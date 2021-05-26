@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "fileName": "20201016T052850Z.meta",
+    "size": 1433
+  },
+  "limited": false,
+  "files": [
+    {
+      "database": "beverage",
+      "policy": "autogen",
+      "shardID": 212,
+      "fileName": "20201016T052850Z.s212.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "autogen",
+      "shardID": 213,
+      "fileName": "20201016T052850Z.s213.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 214,
+      "fileName": "20201016T052850Z.s214.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 215,
+      "fileName": "20201016T052850Z.s215.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 216,
+      "fileName": "20201016T052850Z.s216.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 217,
+      "fileName": "20201016T052850Z.s217.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 218,
+      "fileName": "20201016T052850Z.s218.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 219,
+      "fileName": "20201016T052850Z.s219.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 220,
+      "fileName": "20201016T052850Z.s220.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 221,
+      "fileName": "20201016T052850Z.s221.tar.gz",
+      "size": 914432,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 222,
+      "fileName": "20201016T052850Z.s222.tar.gz",
+      "size": 2049024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 223,
+      "fileName": "20201016T052850Z.s223.tar.gz",
+      "size": 2183680,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 224,
+      "fileName": "20201016T052850Z.s224.tar.gz",
+      "size": 1720320,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 225,
+      "fileName": "20201016T052850Z.s225.tar.gz",
+      "size": 1701888,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 226,
+      "fileName": "20201016T052850Z.s226.tar.gz",
+      "size": 1262080,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 227,
+      "fileName": "20201016T052850Z.s227.tar.gz",
+      "size": 1024,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 228,
+      "fileName": "20201016T052850Z.s228.tar.gz",
+      "size": 672768,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 229,
+      "fileName": "20201016T052850Z.s229.tar.gz",
+      "size": 1658368,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 230,
+      "fileName": "20201016T052850Z.s230.tar.gz",
+      "size": 836608,
+      "lastModified": 0
+    },
+    {
+      "database": "beverage",
+      "policy": "server_data",
+      "shardID": 231,
+      "fileName": "20201016T052850Z.s231.tar.gz",
+      "size": 1044992,
+      "lastModified": 0
+    }
+  ]
+}
